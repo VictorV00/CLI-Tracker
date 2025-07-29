@@ -1,16 +1,16 @@
 
-# 🧩 Gerenciador de Tarefas CLI
+# Gerenciador de Tarefas CLI
 
 Projeto simples de linha de comando em Python para gerenciar tarefas com persistência em arquivo JSON.
 
-## 📚 Funcionalidades
+## Funcionalidades
 
-- ✅ Adicionar uma nova tarefa
-- 📋 Listar todas as tarefas
-- 🔍 Filtrar tarefas por status
-- ✏️ Atualizar descrição
-- 🔄 Atualizar status
-- ❌ Remover tarefas
+- Adicionar uma nova tarefa
+- Listar todas as tarefas
+- Filtrar tarefas por status
+- Atualizar descrição
+- Atualizar status
+- Remover tarefas
 
 ## Como usar
 
@@ -38,7 +38,7 @@ python main.py remover 1
 - `em-progresso`
 - `concluída`
 
-## 🗂 Estrutura do projeto
+##Estrutura do projeto
 
 ```
 .
@@ -55,6 +55,6 @@ python main.py remover 1
 - [ ] Integração com banco de dados SQLite
 - [ ] Suporte a prazos e prioridades
 
-## 📄Licença
+##Licença
 
 Este projeto é open-source e livre para uso pessoal ou educacional. Licença [MIT](https://opensource.org/licenses/MIT).
