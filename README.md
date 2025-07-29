@@ -48,13 +48,6 @@ python main.py remover 1
 ├── tarefas.json      # Arquivo gerado automaticamente
 └── README.md         # Este documento
 ```
-
-## Ideias futuras
-
-- [ ] Interface web com Flask ou FastAPI
-- [ ] Integração com banco de dados SQLite
-- [ ] Suporte a prazos e prioridades
-
 ##Licença
 
 Este projeto é open-source e livre para uso pessoal ou educacional. Licença [MIT](https://opensource.org/licenses/MIT).
