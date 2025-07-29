@@ -17,7 +17,7 @@ Projeto simples de linha de comando em Python para gerenciar tarefas com persist
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/VictorV00/gerenciador-tarefas-cli.git
+git clone https://github.com/VictorV00/CLI-TRACKER.git
 cd gerenciador-tarefas-cli
 ```
 
